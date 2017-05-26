@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_recents"
+        icon="@mipmap/ic_recents"
+        title="Recents" />
+    <tab
+        id="@+id/tab_favorites"
+        icon="@mipmap/ic_favorites"
+        title="Favorites" />
+    <tab
+        id="@+id/tab_nearby"
+        icon="@mipmap/ic_nearby"
+        title="Nearby" />
+    <tab
+        id="@+id/tab_friends"
+        icon="@mipmap/ic_friends"
+        title="Friends" />
+    <tab
+        id="@+id/tab_food"
+        icon="@mipmap/ic_restaurants"
+        title="Food" />
+</tabs>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_recents"
+        icon="@mipmap/ic_recents"
+        title="Jock"
+        barColorWhenSelected="#FA8072" />
+    <tab
+        id="@+id/tab_favorites"
+        icon="@mipmap/ic_favorites"
+        title="Music"
+        barColorWhenSelected="#5D4037" />
+    <tab
+        id="@+id/tab_nearby"
+        icon="@mipmap/ic_nearby"
+        title="News"
+        barColorWhenSelected="#7B1FA2" />
+    <tab
+        id="@+id/tab_friends"
+        icon="@mipmap/ic_friends"
+        title="AboutMe"
+        barColorWhenSelected="#FF4081" />
+    <tab
+        id="@+id/tab_food"
+        icon="@mipmap/ic_restaurants"
+        title="Setting"
+        barColorWhenSelected="#FF9800" />
+</tabs>
